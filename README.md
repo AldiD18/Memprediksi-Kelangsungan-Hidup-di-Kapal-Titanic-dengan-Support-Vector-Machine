@@ -1,0 +1,1 @@
+# Memprediksi-Kelangsungan-Hidup-di-Kapal-Titanic-dengan-Support-Vector-Machine
